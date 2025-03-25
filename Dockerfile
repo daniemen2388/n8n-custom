@@ -1,3 +1,4 @@
+# Usar la imagen oficial de n8n (basada en Alpine Linux)
 FROM n8nio/n8n:latest
 
 # Instalar el paquete de nodos personalizados
